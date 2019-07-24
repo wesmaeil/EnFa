@@ -1,0 +1,29 @@
+body {
+  text-align: center !important;
+  background-color: #a4d7e1;
+}
+
+textarea {
+  background-color: #e4f9f5 !important;
+  margin: 0 auto !important;
+}
+
+.box {
+  display: inline-block;
+  outline: none !important;
+}
+
+.btn-r,
+.btn-d {
+  display: inline-block;
+  margin: 1rem 1rem 1.5rem 1rem !important;
+  width: 97%;
+}
+
+.btn-r {
+  padding: 0.5rem 1.7rem !important ;
+}
+
+.r-to-l {
+  text-align: right;
+}
