@@ -41,7 +41,7 @@ $(".btn-d").on("click", function() {
 $(".btn-r").on("click", function () {
 $(".box").val("");
 $(".box-output").attr("disabled", true);
-$(".box-output").attr("placeholder", "Your output will show here :)");
+$(".box-output").attr("placeholder", "Your output will be shown here :)");
 $(".box-output").removeClass("r-to-l");
 decodedText = "";
 
